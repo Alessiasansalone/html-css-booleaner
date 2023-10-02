@@ -1,0 +1,122 @@
+header {
+    background-image: url(./image/Pattern.jpg.avif);
+    border-bottom: solid;
+    border-color: lightgray;
+    height: 70px;
+    padding-top: 50px;
+}
+
+.intestazione {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+    font-size: 60px;
+    margin-left: 80px;    
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.immagine {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    height: 400px;
+    width: 600px;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 60px;
+    font-size: 40px;
+    margin-bottom: 5px;
+}
+
+.paragrafo {
+    margin-left: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    margin-right: 60px;
+}
+
+.lista {
+    margin-left: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    margin-right: 60px;
+}
+
+.eterocromia {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    height: 600px;
+    width: 1300px;
+}
+
+table {
+    border-spacing: 0;
+    margin-left: 60px;
+    width: 1000px;
+    border: solid gray 1px;
+    padding: 1px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+
+.dispari {
+    background-color: aliceblue;
+}
+
+td {
+    height: 60px;
+}
+
+footer {
+    height: 200px;
+    margin-left: 30px;
+}
+
+h3 {
+    color: rgb(15, 89, 28);
+}
+
+.consiglio1 {
+    background-image: url(./image/alaskan-malamute-aspetto.jpg);
+    background-repeat: no-repeat;
+    background-size: 280px;
+    padding-bottom: 180px;
+    padding-right: 20px;
+    padding-left: 3px;
+    padding-top: 3px;
+    color: white;
+}
+
+.consiglio2 {
+    background-image: url(./image/samoiedo.jpeg);
+    background-repeat: no-repeat;
+    background-size: 280px;
+    padding-bottom: 180px;
+    padding-right: 95px;
+    padding-left: 3px;
+    padding-top: 3px;
+    color: white;
+}
+
+.consiglio3 {
+    background-image: url(./image/cane-Groenlandese-foto-razza-canina.jpg);
+    background-repeat: no-repeat;
+    background-size: 280px;
+    padding-bottom: 180px;
+    padding-right: 95px;
+    padding-left: 3px;
+    padding-top: 3px;
+    color: white;
+}
