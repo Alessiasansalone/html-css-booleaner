@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+
+.larghezza {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.top-page {
+    height: 100px;
+    background-color:rgb(148, 148, 247);
+    background-image: url(../img/pattern.png);
+    background-size: 30%;
+    background-repeat: repeat;
+}
+
+.logo {
+    width: 15%;
+    padding: 5px;
+}
