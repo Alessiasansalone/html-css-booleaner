@@ -27,3 +27,19 @@
 .title {
     margin-top: 3%;
 }
+
+table {
+    width: 100%;
+}
+
+.top-table {
+    background-color: rgb(103, 161, 211);
+}
+
+.shots {
+    background-color: rgb(186, 186, 186);
+}
+
+.table-body {
+    line-height: 40px;
+}
