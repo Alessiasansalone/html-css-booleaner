@@ -11,15 +11,18 @@
 }
 
 .top-page {
-    height: 100px;
-    background-color:rgb(148, 148, 247);
+    height: 20%;
+    background-color:rgb(148, 229, 247);
     background-image: url(../img/pattern.png);
     background-size: 30%;
     background-repeat: repeat;
+    background-attachment: local;
 }
 
 .logo {
     width: 15%;
+    margin-left: 10%;
+    margin-top: 2%;
 }
 
 .title {
@@ -27,7 +30,7 @@
 }
 
 table {
-    width: 100%;
+    margin-bottom: 3%;
 }
 
 .top-table {
@@ -36,10 +39,6 @@ table {
 
 .shots {
     background-color: rgb(186, 186, 186);
-}
-
-.table-body {
-    line-height: 40px;
 }
 
 .end-page {
