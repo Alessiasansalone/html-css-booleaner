@@ -29,6 +29,10 @@
     margin-top: 3%;
 }
 
+.list {
+    list-style-position: inside;
+}
+
 table {
     margin-bottom: 3%;
 }
