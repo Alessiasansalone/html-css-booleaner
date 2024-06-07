@@ -19,9 +19,7 @@
 }
 
 .logo {
-    width: 200px;
-    margin-left: auto;
-    margin-right: auto;
+    width: 15%;
 }
 
 .title {
@@ -42,4 +40,12 @@ table {
 
 .table-body {
     line-height: 40px;
+}
+
+.end-page {
+    background-color: rgb(0, 0, 89);
+    color: white;
+    height: 40px;
+    align-content: center;
+    text-align: center;
 }
